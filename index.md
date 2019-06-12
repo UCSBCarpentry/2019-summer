@@ -8,6 +8,7 @@ Title: 2019 Summer Python - UCSB Software Carpentry
 
 # 2019 Summer Python  - UCSB Software Carpentry
 Both Tuesday and Thursday classes are now full. You can still sign up for the waitlist here:
+
 <button>[Waitlist Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeefc5qKvOl-DmUqTR9I5WQkU1_rtvGlXX_3SfAUmIUTNyzQQ/viewform?usp=sf_link)</button>
 
 ### Lessons:
