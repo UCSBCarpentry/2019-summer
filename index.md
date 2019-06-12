@@ -6,7 +6,7 @@ Title: 2019 Summer Python - UCSB Software Carpentry
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <div class="container">
 
-# 2019 Summer Python  - UCSB Software Carpentry
+# Summer 2019 Python  - UCSB Software Carpentry
 Both Tuesday and Thursday classes are now full. You can still sign up for the waitlist here:
 
 <button>[Waitlist Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSeefc5qKvOl-DmUqTR9I5WQkU1_rtvGlXX_3SfAUmIUTNyzQQ/viewform?usp=sf_link)</button>
@@ -15,7 +15,7 @@ Both Tuesday and Thursday classes are now full. You can still sign up for the wa
 
    [Software Carpentry - Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
-## 2 Sections offered:
+## Two Sections offered:
 
 ### Section 1  Tuesdays 9:30 - 11:00 am
 ### Section 2  Thursdays 9:30 - 11:00 am
