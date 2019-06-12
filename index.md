@@ -53,4 +53,10 @@ UCSB Library
   - Vania Wang
   - Noah Spahn
 
+### Etherpad:
+Here are the Etherpads, a collaborative document, that we will use in our classes:
+   - [Etherpad for the Tuesday section](https://pad.carpentries.org/ucsb-summer19-python-tues)
+   - [Etherpad for the Thursday section](https://pad.carpentries.org/ucsb-summer19-python-thurs)
+
+
 </div>
