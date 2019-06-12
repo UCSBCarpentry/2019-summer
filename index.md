@@ -30,18 +30,18 @@ UCSB Library
 
 | Week | Section 1                                                  | Section 2                                                        |
 | ---- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
-| 1    | Tuesday    June   25 <br> 9:30-11:00 Library Room 1312     | Thursday June 27      <br> 9:30-11:00    Library Room 1312       |
-| 2    | Tuesday    July   2  <br> 9:30-11:00 Library Room 1312     | Tuesday July      2   <br> 2:00-3:30 pm  Library Room 1312       |
-| 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Thurday July       11 <br> 9:30-11:00    Library Room 1312       |
-| 4    | Tuesday    July   16 <br> 9:30-11:00 Library Collaboratory | Thursday July      18 <br> 9:30-11:00    Library Collaboratory   |
-| 5    | Tuesday    July   23 <br> 9:30-11:00 Library Collaboratory | Thursday July      25 <br> 9:30-11:00    Library Room 1312       |
-| 6    | Tuesday    July   30 <br> 9:30-11:00 Library Room 1312     | Thursday August    1  <br> 9:30-11:00    Library Room 1312       |
-| 7    | Tuesday    August 6  <br> 9:30-11:00 Library Collaboratory | Thursday August    8  <br> 9:30-11:00    Library Collaboratory   |
-| 8    | Tuesday    August 13 <br> 9:30-11:00 Library Collaboratory | Thursday August    15 <br> 9:30-11:00    Library Room 1312       |
-| 9    | Tuesday    August 20 <br> 9:30-11:00 Library Room 1312     | Thursday August    22 <br> 9:30-11:00    Library Room 1312       |
-| 10   | Tuesday    August 27 <br> 9:30-11:00 Library Room 1312     | Thursday August    29 <br> 9:30-11:00    Library Room 1312       |
-| 11   | Tuesday September 3  <br> 9:30-11:00 Library Room 1312     | Thursday September 5  <br> 9:30-11:00    Library Room 1312       |
-| 12   | Tuesday September 10 <br> 9:30-11:00 Library Room 1312     | Thursday September 12 <br> 9:30-11:00    Library Room 1312       |
+| 1    | Tuesday    June   25 <br> 9:30-11:00 Library Room 1312     | Thursday June 27      <br> 9:30-11:00    Library Room 1312        | Running and Quitting <br> Variables and Assignments                                  |
+| 2    | Tuesday    July   2  <br> 9:30-11:00 Library Room 1312     | Tuesday July      2   <br> 2:00-3:30 pm  Library Room 1312         | Data Types and Type Conversion <br> Built-in Functions and Help                      |
+| 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Thurday July       11 <br> 9:30-11:00    Library Room 1312        | Libraries        |
+| 4    | Tuesday    July   16 <br> 9:30-11:00 Library Collaboratory | Thursday July      18 <br> 9:30-11:00    Library Collaboratory   | Reading Tabular Data into DataFrames <br> Pandas DataFrames                |
+| 5    | Tuesday    July   23 <br> 9:30-11:00 Library Collaboratory | Thursday July      25 <br> 9:30-11:00    Library Room 1312       | Review           |
+| 6    | Tuesday    July   30 <br> 9:30-11:00 Library Room 1312     | Thursday August    1  <br> 9:30-11:00    Library Room 1312       | Plotting         |
+| 7    | Tuesday    August 6  <br> 9:30-11:00 Library Collaboratory | Thursday August    8  <br> 9:30-11:00    Library Collaboratory   | Lists            |
+| 8    | Tuesday    August 13 <br> 9:30-11:00 Library Collaboratory | Thursday August    15 <br> 9:30-11:00    Library Room 1312       | For Loops <br> Looping over Data Sets   |
+| 9    | Tuesday    August 20 <br> 9:30-11:00 Library Room 1312     | Thursday August    22 <br> 9:30-11:00    Library Room 1312       | Writing Functions <br> Variable Scope  |
+| 10   | Tuesday    August 27 <br> 9:30-11:00 Library Room 1312     | Thursday August    29 <br> 9:30-11:00    Library Room 1312       | Review           |
+| 11   | Tuesday September 3  <br> 9:30-11:00 Library Room 1312     | Thursday September 5  <br> 9:30-11:00    Library Room 1312| Conditionals <br> Programming Style |
+| 12   | Tuesday September 10 <br> 9:30-11:00 Library Room 1312     | Thursday September 12 <br> 9:30-11:00    Library Room 1312| Wrap-Up          |
 
 ----
 
