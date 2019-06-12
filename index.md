@@ -35,7 +35,7 @@ UCSB Library
 | 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Thurday July       11 <br> 9:30-11:00    Library Room 1312       |
 | 4    | Tuesday    July   16 <br> 9:30-11:00 Library Collaboratory | Thursday July      18 <br> 9:30-11:00    Library Collaboratory   |
 | 5    | Tuesday    July   23 <br> 9:30-11:00 Library Collaboratory | Thursday July      25 <br> 9:30-11:00    Library Room 1312       |
-| 5    | Tuesday    July   30 <br> 9:30-11:00 Library Room 1312     | Thursday August    1  <br> 9:30-11:00    Library Room 1312       |
+| 6    | Tuesday    July   30 <br> 9:30-11:00 Library Room 1312     | Thursday August    1  <br> 9:30-11:00    Library Room 1312       |
 | 7    | Tuesday    August 6  <br> 9:30-11:00 Library Collaboratory | Thursday August    8  <br> 9:30-11:00    Library Collaboratory   |
 | 8    | Tuesday    August 13 <br> 9:30-11:00 Library Collaboratory | Thursday August    15 <br> 9:30-11:00    Library Room 1312       |
 | 9    | Tuesday    August 20 <br> 9:30-11:00 Library Room 1312     | Thursday August    22 <br> 9:30-11:00    Library Room 1312       |
