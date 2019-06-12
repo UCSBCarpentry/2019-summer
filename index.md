@@ -28,8 +28,8 @@ UCSB Library
 
 ### Schedule:
 
-| Week | Section 1                                                  | Section 2                                                        |
-| ---- | ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| Week | Section 1                                                  | Section 2                                                        | Lesson(s)                                  |
+| ---- | ---------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------|
 | 1    | Tuesday    June   25 <br> 9:30-11:00 Library Room 1312     | Thursday June 27      <br> 9:30-11:00    Library Room 1312        | Running and Quitting <br> Variables and Assignments                                  |
 | 2    | Tuesday    July   2  <br> 9:30-11:00 Library Room 1312     | Tuesday July      2   <br> 2:00-3:30 pm  Library Room 1312         | Data Types and Type Conversion <br> Built-in Functions and Help                      |
 | 3    | Tuesday    July   9  <br> 9:30-11:00 Library Room 1312     | Thurday July       11 <br> 9:30-11:00    Library Room 1312        | Libraries        |
