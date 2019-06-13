@@ -1,5 +1,5 @@
 ---
-Title: 2019 Summer Python - UCSB Software Carpentry
+title: Summer 2019 Python  - UCSB Software Carpentry
 
 ---
 <style> body {font-family: sans-serif;}</style>
