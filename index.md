@@ -2,6 +2,7 @@
 title: Summer 2019 Python  - UCSB Software Carpentry
 instructor: ["Sharon Solis", "Ian Lessing", "Vania Wang", "Noah Spahn"]
 helper: []
+startdate: 2019-06-25
 ---
 <style> body {font-family: sans-serif;}</style>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
