@@ -1,6 +1,6 @@
 ---
 title: Summer 2019 Python  - UCSB Software Carpentry
-instructor: ["Sharon Solis, Ian Lessing, Vania Wang, Noah Spahn"]
+instructor: ["Sharon Solis", "Ian Lessing", "Vania Wang", "Noah Spahn"]
 helper: []
 ---
 <style> body {font-family: sans-serif;}</style>
